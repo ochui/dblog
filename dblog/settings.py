@@ -25,7 +25,7 @@ SECRET_KEY = '-scdn5d(vcgu=$mg*8oexqt$0$w=ta-36f(-!d5le!)sj#2v$3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ochui.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'ochui.pythonanywhere.com']
 
 
 # Application definition
